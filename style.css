@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+#what {
+background-color: aqua;
+    font-size: 40px;
+    font-style: italic;
+}
+#explain {
+text-align: center;
+    background-color: deeppink;
+    font-size: 30px;
+    font-style: italic;
+}
+img {
+    width: 300px;
+}
